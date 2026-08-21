@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Ejercicio06.Ejecutar();
+        Ejercicio07.Ejecutar();
 
         Console.WriteLine();
         Console.WriteLine("Presiona ENTER para terminar...");
